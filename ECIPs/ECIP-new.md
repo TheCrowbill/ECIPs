@@ -1,11 +1,11 @@
-### Ethereum Classic Governance Model
+### ECIP-NEW#  Ethereum Classic Governance Model
 
-    ECIP: <ECIP number>
+    ECIP: requested
     Title: Ethereum Classic Governance Model
     Author: Keith Hall Barnett, thecrowbill@yahoo.com
     Discussions-To: <email address>
     Status: Draft
-    Type: Standards Track
+    Type: Meta
     Created: 2018-03-31
     Replaces: <ECIP number>
     Superseded-By: <ECIP number>
@@ -25,6 +25,25 @@ We, the disenfranchised opposition to these past breaches of principle, herewith
 
 ### Specification
 
+1. What is governed?
+2. Who votes?
+3. Vote weighting
+4. Proxy options
+5. Proposal submission
+6. Decision timeline
+7. Ballot construction
+8. Voting procedure
+9. Outcome determination
+10. Assignment of created positions
+11. Future development
+
 ### Rationale
 
+1. Why this way?
+2. Why now?
+3. Alternative
+
 ### Implementation
+
+Technical description of protocol level changes required.
+Development and implementaion timeline
