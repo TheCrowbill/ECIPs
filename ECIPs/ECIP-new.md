@@ -1,4 +1,4 @@
-### ECIP-NEW#  Ethereum Classic Governance Model
+### ECIP- `NEW#`  Ethereum Classic Governance Model
 
     ECIP: requested
     Title: Ethereum Classic Governance Model
